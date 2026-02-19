@@ -19,4 +19,4 @@ jobs:
           # Optimization settings to remove the pause button:
           strategy: random
           theme: dark
-          max-columns: 40  # Reducing this makes the GIF smaller & auto-play
+          max-columns: 53  # Reducing this makes the GIF smaller & auto-play
